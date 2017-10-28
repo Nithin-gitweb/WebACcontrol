@@ -1,2 +1,2 @@
 # WebACcontrol
-Controls the AC appliances via a web server
+Controls the AC appliances via a web server.This project uses a raspberry Pi micro controller in the domain of IoT. A Webserver is created using a Rpi and it is hosted to web. The motive of this project is to control the electronic appliances via a web page which is created in that Rpi web server. It is mandatory that the server and client must be connected to same network. By visiting the webpage, one can control the appliances connected to it via a device.
